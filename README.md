@@ -1,7 +1,7 @@
 # beadAnalyze
 Automated differential expression analysis for Illumina beadarrays (HT12 V4 arrays).
 
-This R script performs automated differential analysis from Illumina's expression  [idat](https://www.bioconductor.org/packages/devel/bioc/vignettes/illuminaio/inst/doc/EncryptedFormat.pdf) files. Default this script assumes idat files are from HT12 V4 arrays, but should with little modification it should work with any arrays.
+This R script performs automated differential analysis from Illumina's expression  [idat](https://www.bioconductor.org/packages/devel/bioc/vignettes/illuminaio/inst/doc/EncryptedFormat.pdf) files. By default this script assumes idat files are from HT12 V4 arrays, but with little modification it should work with any arrays.
 
 Make sure you have the following dependencies installed:
 
